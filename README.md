@@ -49,3 +49,5 @@ Examining the relationship between these parent references allows you to identif
 - Developer submits their changes to the project maintainer
 - Review then accept or reject proposed changes
 
+# Hashes in Git functionality
+Git relies heavily on hashing when it comes to tracking data. It creates a hash of each commit, an MD5 hash that functions as an identifier for that particular commit ID. It also allows Git to identify any file changes in that particular commit. It also uses these hashes to link objects, such as commits and branches, and to track a repository’s history.
