@@ -1,0 +1,10 @@
+Git rebase is a command that works by transferring 
+the commits of a branch onto another branch. 
+It can also be used to modify or even remove commits. 
+Specifically, it takes the existing commits on a 
+branch and re-applies them onto the current branch head. 
+By doing this, you can “replay” the commits onto a new 
+branch and make the history look cleaner. 
+Rebase is a great way to make sure that a branch 
+always has the most up to date commits and can be used 
+to help simplify a complicated commit history.
